@@ -1,0 +1,3 @@
+Skin by Editor2, model by Valve, hex by cloudstrifexiii
+
+	"#George Bush"			"models/gdub.mdl"

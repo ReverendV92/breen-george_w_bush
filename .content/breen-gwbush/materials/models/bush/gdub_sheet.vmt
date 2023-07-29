@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/bush/gdub_sheet
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+
+	$color2 "[ 1 1 1 ]"
+	proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2 // disable proxies
+			resultVar $color2
+
+		}
+
+	}
+
+}
